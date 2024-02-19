@@ -4,9 +4,10 @@ public class C01Variable {
     public static void main(String[] args) {
         // 주석
         // 한 줄 주석
-//           ctrl + /
+//          ctrl + /
         /*
         여러 줄 주석
+
          */
 
         // 변스 : variable
@@ -21,28 +22,35 @@ public class C01Variable {
         // 변수에 값 저장 (assignment, 할당, 대입)
         // 변수명 = 값
         a = 10;
+
         System.out.println(a);
+
         a = 9;
+
         System.out.println(a);
 
         // 변수 b를 int 타입으로 선언하고
         // 변수 b에 100을 대입하고
         // 변수 b 출력
         int b;
-       b=100;
+        b=100;
         System.out.println(b);
 
-
-
-
         // 변수명에 사용할 수 있는 문자들
-        // 영문 대소문자, 숫자, $,_
-        // 숫자로 시작할 수 없다.
-
+        // 영문 대소문자, 숫자, $, _
+        // 숫자, 로 시작할 수 없다.
+        // _로만 작성할 수 없음.
+        int c;
+        int C;
+        int $;
+        int c_d;
+        int _e;
 
         // 변수명 작성 관습
-        // 수문자로 시작
-        // 여러단어의 조합이면 각단어의 앞글자만 대문자
+        // 소문자로 시작
+        //여러단어의 조합이면 각단어의 앞글자만 대문자
+        // lowerCamelCase
+
         int age;
         int age0fJames;
         int address;
@@ -64,6 +72,5 @@ public class C01Variable {
         int _age;
 //          int #name;
 //          int int;
-
- }
+    }
 }
