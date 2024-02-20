@@ -10,7 +10,7 @@ public class C01Variable {
 
          */
 
-        // 변스 : variable
+        // 변수 : variable
         // 값을 저장하는 공간의 이름
 
         // 변수 선언 : 저장공간을 만듦

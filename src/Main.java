@@ -12,6 +12,5 @@ public class Main {
         System.out.println("안녕 중앙정보");
         System.out.println("ㅎㅎㅎ");
 
-
     }
 }

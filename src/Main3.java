@@ -7,5 +7,7 @@ public class Main3 {
         System.out.println("운동30분하기");
         System.out.println("비타민먹기");
 
+        System.out.println("매일꾸준하게하기");
+
     }
 }
