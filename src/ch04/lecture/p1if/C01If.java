@@ -10,7 +10,6 @@ public class C01If {
             System.out.println("명령문 2");
         }
 
-
         if (5 > 3) {
             System.out.println("명령문 3");
             System.out.println("명령문 4");
@@ -20,6 +19,5 @@ public class C01If {
             System.out.println("명령문 5");
             System.out.println("명령문 6");
         }
-
     }
 }
