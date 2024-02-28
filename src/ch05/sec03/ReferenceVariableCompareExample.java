@@ -1,7 +1,9 @@
-package ch05.lecture.p1array.sec03;
+package ch05.sec03;
 
 public class ReferenceVariableCompareExample {
     public static void main(String[] args) {
+        // 02. 참조타입 설명.png
+
         int[] arr1; // 배열 변수 arr1 선언
         int[] arr2; // 배열 변수 arr2 선언
         int[] arr3; // 배열 변수 arr3 선언

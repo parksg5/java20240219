@@ -1,4 +1,4 @@
-package ch05.lecture.p1array.Exercise;
+package ch05.Exercise;
 
 public class Exercise07 {
     public static void main(String[] args) {
