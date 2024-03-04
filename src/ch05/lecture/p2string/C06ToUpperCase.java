@@ -8,7 +8,7 @@ public class C06ToUpperCase {
         System.out.println(s1);
         System.out.println(s2);
 
-        String s3 = s2.toUpperCase(); // 소문자로 바꾼 문자열 리턴
+        String s3 = s2.toLowerCase(); // 소문자로 바꾼 문자열 리턴
         System.out.println(s3);
     }
 }
