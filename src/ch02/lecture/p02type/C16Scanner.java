@@ -9,5 +9,7 @@ public class C16Scanner {
         String line = scanner.nextLine(); // 키보드 입력 받음
 
         System.out.println("line = " + line);
+
+        scanner.close();
     }
 }
