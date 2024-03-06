@@ -37,6 +37,5 @@ class C01MyClass {
 
     // static 메소드 (class 메소드)
     static void method2() {
-
     }
 }
